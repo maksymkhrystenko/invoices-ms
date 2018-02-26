@@ -1,0 +1,10 @@
+{
+  "brand"       : "Invoices Management System",
+  "leftLinks"   : [],
+  "rightLinks"  : [
+    {
+      "label" : "Home",
+      "link"  : "/"
+    }
+  ]
+}
